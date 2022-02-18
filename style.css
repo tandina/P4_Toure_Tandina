@@ -1191,6 +1191,29 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+    .ensemble-photo
+    {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .contact-form
+    {
+        display: flex;
+        flex-direction: column !important;
+        justify-content: left !important;
+        align-content: center !important;
+        flex-wrap: nowrap !important;
+    }
+    .col-sm-form
+    {
+        padding: 0;
+        width: auto;
+    }
+    .col-sm-loc
+    {
+        width: auto;
+        padding: 10px;
+    }
     .bloc-illu
     {
         display: flex !important;
