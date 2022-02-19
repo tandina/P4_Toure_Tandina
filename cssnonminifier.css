@@ -385,7 +385,11 @@ a:hover {
     padding: 0px 10px 20px 10px;
     box-sizing: unset;
 }
-
+.thead
+{
+    font-size:34px;
+    font-weight: 501;
+}
 .col-sm-form
 {
     width: 270px;
